@@ -1,7 +1,3 @@
-package main
-
+package main 
 import "fmt"
-
-func main() {
-	fmt.Println("FullCycle Rocks!!!")
-}
+func main() {fmt.Println("FullCycle Rocks!!!")}
